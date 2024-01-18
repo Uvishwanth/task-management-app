@@ -1,0 +1,11 @@
+# environment file that contain sensitive information
+
+.env
+
+# node module folder
+
+/node_modules
+
+
+# Editor directories and files
+.vscode/
