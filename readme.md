@@ -16,7 +16,7 @@
 
 
 ## Overview
-This is a full-stack To-Do App that allows users to manage their tasks efficiently. The app provides CRUD (Create, Read, Update, Delete) operations and consists of both frontend and backend components.
+This is a full-stack Task-managemet App that allows users to manage their tasks efficiently. The app provides CRUD (Create, Read, Update, Delete) operations and consists of both frontend and backend components.
 
 ## Features
 
@@ -53,8 +53,8 @@ This is a full-stack To-Do App that allows users to manage their tasks efficient
 
 ## pre-requisits
 Before you begin, ensure you have the following installed:
-    - `node.js`
-    - `mysql`
+     `node.js`
+     `mysql`
 
 ### Note: since it is the node package manager (npm) you must aware of
 
@@ -85,7 +85,9 @@ Before you begin, ensure you have the following installed:
 - run the client in server directory using command
     ```bash
     npm start
-- woolah! you can use this project for your personal use for task management
+- Ensure that the database must be created just look at `database.db` file create database and table at your local machine connect with database to your server check the connection.
+- To run the project `server.js` file must be run to run front end.
+- woolah! you can use this project for your personal use for task management you can also use it as personal use.
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvement, found a bug, or want to contribute new features, please follow these steps:
